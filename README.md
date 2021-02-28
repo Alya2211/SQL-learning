@@ -1,6 +1,6 @@
 # SQL-learning
 
-Model
+MySQL Model
 
 ![alt text](https://github.com/Alya2211/SQL-learning/blob/main/sql.jpg?raw=true)
 
